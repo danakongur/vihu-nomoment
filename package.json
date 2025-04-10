@@ -1,7 +1,6 @@
 {
-  "name": "vihu-nomoment",
+  "name": "eslint-plugin-vihu-steinthor-no-moment",
   "version": "1.0.0",
-  "description": "ESlint package that forbids moment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +15,5 @@
     "url": "https://github.com/danakongur/vihu-nomoment/issues"
   },
   "homepage": "https://github.com/danakongur/vihu-nomoment#readme",
-  "devDependencies": {
-    "eslint": "^9.24.0"
-  }
+  "description": ""
 }
